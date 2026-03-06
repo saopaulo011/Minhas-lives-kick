@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Obaiano" group-title="KICK LIVES",Obaiano
+https://kick.com/api/v2/channels/obaiano
+
+#EXTINF:-1 tvg-name="Audaz" group-title="KICK LIVES",Audaz
+https://kick.com/api/v2/channels/audaz
+
+#EXTINF:-1 tvg-name="Caioba" group-title="KICK LIVES",Caioba
+https://kick.com/api/v2/channels/caioba
+
+#EXTINF:-1 tvg-name="Fusion88" group-title="KICK LIVES",Fusion88
+https://kick.com/api/v2/channels/fusion88
